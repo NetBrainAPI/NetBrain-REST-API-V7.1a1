@@ -137,3 +137,7 @@ Netbrain provide all available REST APIs in this repository. We offer two sectio
 4) [Get Detail Usage Report of Users API](https://github.com/NetBrainAPI/North-Bound-API/blob/master/REST%20APIs%20Documentation/User%20Management/Get%20Detail%20Usage%20Report%20of%20Users%20API.md)<br>
 5) [Update User API](https://github.com/NetBrainAPI/North-Bound-API/blob/master/REST%20APIs%20Documentation/User%20Management/Update%20User%20API.md)<br>
 6) [Get Users API](https://github.com/NetBrainAPI/North-Bound-API/blob/master/REST%20APIs%20Documentation/User%20Management/Get%20Users%20API.md)
+
+### [Change Ticket Management](https://github.com/NetBrainAPI/North-Bound-API/tree/master/REST%20APIs%20Documentation/Change%20Management)
+1) [Binding 3rd Party Ticket with Runbook API](https://github.com/NetBrainAPI/North-Bound-API/blob/master/REST%20APIs%20Documentation/Change%20Management/_Change%20Management%20Approval%20Process%20API%20Design%20--%20Binding%20Runbook.md)<br>
+2) [Approve Change Management Request API](https://github.com/NetBrainAPI/North-Bound-API/blob/master/REST%20APIs%20Documentation/Change%20Management/_Change%20Management%20Approval%20Process%20API%20Design%20--%20Change%20state.md)<br>
