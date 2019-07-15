@@ -65,12 +65,6 @@ body = {
 |statusDescription| string | The explanation of the status code. |
 
 > ***Example***
- 
-```python
-
-```
-
-
 
 ```python
 {
@@ -118,7 +112,7 @@ except Exception as e:
     print (str(e)) 
 ```
 
-    Binding ticket failed! - {"runbookUrl":null,"statusCode":798806,"statusDescription":"The external approval system not enabled, please contact to your administrator."}
+    { "statusCode":0, "statusDescription":"Success.", "runbookUrl":"http://192.168.28.173/map.html?t=823e096b-093a-10f1-1471-21a9a5ff509c&d=af4581fd-a705-4ddf-a878-fd4c6f304b96&id=378d70a2-f3e1-76c1-42fa-2bb088c1bda2&rba=9948608d-c755-d1e7-b5d1-325b917952b0"}
     
 
 ## cURL Code from Postman
