@@ -1,4 +1,3 @@
-//Business Rule Example
 (function executeRule(current, previous /*null when async*/) {
 
     //Update the values of the following attributes to your specific API base URL, login credentials, and tenant/domain names
