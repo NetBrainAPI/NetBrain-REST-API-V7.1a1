@@ -1,8 +1,8 @@
 
 # Device API Design
 
-## ***DELETE*** /V1/CMDB/Devices/Attributes/{attributeName}
-Call this API to delete a device attribute (property) from schema.
+## ***DELETE*** /V1/CMDB/Devices
+Call this API to delete a device from current domain.
 
 ## Detail Information
 
