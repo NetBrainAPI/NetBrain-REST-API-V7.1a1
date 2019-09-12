@@ -57,6 +57,13 @@ Call this API to get the connected layer 2 switch port whihc specified by manage
 |statusCode| integer | Code issued by NetBrain server indicating the execution result.  |
 |statusDescription| string | The explanation of the status code. |
 
+> **Note:**
+1. This API responds with end systems' data. This excludes data from Cache Engine, VM Host, NSX Controller, NSX Manager.
+2. In current version if there are end systems with duplicate IP addresses, then any one IP’s details will be return in API response.
+3. In current version if multiple device/interfaces are connected to an IP via L2 bus, any one connected device/interface pair’s details will return in API response.
+
+
+
 > ***Example***
 
 
