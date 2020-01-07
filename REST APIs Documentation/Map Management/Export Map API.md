@@ -101,8 +101,12 @@ try:
     response = requests.get(full_url, params=data, headers=headers, verify=False)
     if response.status_code == 200:
         result = response.json()
-        #map_data = result["fileData"]
         print (result)
+
+        #snippet below to convert file's byte code into a file
+        path="c:\\map.xmap" # specify appropiate .visio ext if choosing Visio file
+        with open(path,"wb") as ff:
+            ff.write(base64.b64decode(map_data["fileData"]))
     elif response.status_code != 200:
         print ("Export map failed! - " + str(response.text))
     
