@@ -92,7 +92,7 @@ hostname = [""]
 headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
 headers["Token"]=token
 full_url= nb_url + "/ServicesAPI/API/V1/CMDB/Devices"
-body={"hostnames" : hostname, "IPs": mgmtIP} # The inputs shouldn't been put in body parameters. 
+body={"hostnames" : hostname, "IPs": mgmtIP} 
     
 try:
     response = requests.delete(full_url, headers=headers, data=json.dumps(body), verify=False)
