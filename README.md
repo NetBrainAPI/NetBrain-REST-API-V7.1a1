@@ -46,13 +46,12 @@ To see the list of all REST APIs view "REST APIs Documentation".
 ### [Discovery Task Management](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/tree/master/REST%20APIs%20Documentation/Discovery%20Task%20Management) 
 1) [Run Discovery Task Now API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Run%20Discovery%20Task%20Now%20API.md)
 2) [Get Discovery Tasks Status API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20Discovery%20Tasks%20Status%20API.md)<br>
-3) [Delete Scheduled Discovery Task AP](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Delete%20Schedule%20Discovery%20API.md)<br>
+3) [Get Discovery Tasks Result API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20Discovery%20Tasks%20Result%20API.md)<br>
 4) [Add Seed IPs to Discovery Task API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Add%20Seed%20IPs%20to%20Discovery%20Task%20API.md)<br>
 5) [Delete Seed IPs to Discovery Task API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Delete%20Seed%20IPs%20to%20Discovery%20Task%20API.md)<br>
 6) [Get All Discovery Tasks API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20All%20Discovery%20Tasks%20API.md)<br>
 7) [Get All Seed IPs from Discovery Task API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20All%20Seed%20IPs%20from%20Discovery%20Task%20API.md)<br>
 8) [Get Discovery Task Live Access Log API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20Discovery%20Task%20Live%20Access%20Log%20API.md)<br>
-9) [Get Discovery Tasks Result API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Get%20Discovery%20Tasks%20Result%20API.md)<br>
 
 ### [Device Interfaces Management](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/tree/master/REST%20APIs%20Documentation/Device%20Interfaces%20Management) 
 1) [Create Interface Attribute API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Device%20Interfaces%20Management/Create%20Interface%20Attribute%20API.md)<br>
