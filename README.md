@@ -7,7 +7,7 @@ To view details about use cases which can be implemented with NetBrain REST APIs
 To see the list of all REST APIs view "REST APIs Documentation".
 
 ## Section 1) Golden Use Case Templates
-1) [Get Path Detail Information by Calling APIs](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/Golden%20Use%20Case%20Templates/Get%20Path%20By%20Calling%20APIs%20V7.1a1.md)<br>
+1) [Get Path Detail Information by Calling APIs](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/Golden%20Use%20Case%20Templates/Get%20Path%20By%20Calling%20APIs%20upgrate.md)<br>
 2) [Sites Management by Calling APIs](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/Golden%20Use%20Case%20Templates/Sites%20Management%20by%20Calling%20APIs.md)<br>
 3) [Calling Trigger Diagnosis API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/Golden%20Use%20Case%20Templates/Calling%20Trigger%20Diagnosis%20API.md)<br>
 4) [Discovery and Devices Management by Calling APIs](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/Golden%20Use%20Case%20Templates/Discovery%20and%20Devices%20Management%20by%20Calling%20APIs.md)<br>
