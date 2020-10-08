@@ -41,7 +41,7 @@ To see the list of all REST APIs view "REST APIs Documentation".
 7) [Get Group Devices API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Devices%20Management/Get%20Group%20Devices%20API.md)<br>
 8) [Set Device Attribute API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Devices%20Management/Set%20Device%20Attribute%20API.md)<br>
 9) [Get Device Configuration API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Devices%20Management/Get%20Device%20Configration%20API.md)<br>
-10) [Get Device Raw Data API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Devices%20Management/Get%20Device%20Data%20API.md) <br>
+10) [Get Front Server of a device API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Devices%20Management/Get%20Front%20Server%20of%20A%20Device%20API.md) <br>
 
 ### [Discovery Task Management](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/tree/master/REST%20APIs%20Documentation/Discovery%20Task%20Management) 
 1) [Run Discovery Task Now API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a1/blob/master/REST%20APIs%20Documentation/Discovery%20Task%20Management/Run%20Discovery%20Task%20Now%20API.md)
